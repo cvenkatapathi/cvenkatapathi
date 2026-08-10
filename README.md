@@ -7,65 +7,29 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vekatapathi-raju-chamarthi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ccvenkatapathiraju12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/cvenkatapathi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-</p>
-
----
 
 ### 🚀 About Me
 
 - 🎓 2026 B.Tech CSE graduate — Sree Rama Engineering College, Tirupati (2022–2026)
 - 💼 Completed two Java Full Stack internships at **NDVTechsys Solutions** and **Innovation Tech Tree LLP**
-- 🌱 Currently exploring **Django**, **PCAP (Python)** and **AWS Cloud Practitioner**
+- 🌱 Currently exploring, **PCAP (Python)** and **AWS Cloud Practitioner**
 - 🎯 Looking for entry-level **Full Stack / Frontend / Backend Developer** roles at startups & growing companies
 - ⚡ Fun fact: I build full projects end-to-end — from auth systems to analytics dashboards
 
----
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,mongodb,mysql,django,html,css,bootstrap,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,mongodb,mysql,html,css,bootstrap,git,github,vscode&perline=6" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cvenkatapathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvenkatapathi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvenkatapathi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cvenkatapathi&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/cvenkatapathi/shopease-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvenkatapathi&repo=shopease-ecommerce&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/cvenkatapathi/AI-Interviewer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cvenkatapathi&repo=AI-Interviewer&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 - 🛒 **[ShopEase](https://github.com/cvenkatapathi/shopease-ecommerce)** — Full-stack e-commerce site built with Node.js, Express & MongoDB, featuring auth, cart, and an admin panel.
 - 🤖 **[AI-Interviewer](https://github.com/cvenkatapathi/AI-Interviewer)** — AI-powered interview automation system using Django, NLP, and Machine Learning.
-- 💰 **Ledger** — Django REST Framework expense tracker with JWT auth, Chart.js analytics dashboard, CSV export, and ₹/IST localization. *(add repo link once pushed!)*
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cvenkatapathi&color=blueviolet&style=flat-square" alt="Profile Views" />
