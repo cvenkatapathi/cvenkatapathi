@@ -6,8 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:58A6FF&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vekatapathi-raju-chamarthi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/venkatapathi-raju-chamarthi)
   <a href="mailto:ccvenkatapathiraju12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### 🚀 About Me
