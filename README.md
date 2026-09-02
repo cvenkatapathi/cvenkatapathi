@@ -7,7 +7,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/venkatapathi-raju-chamarthi)
-  <a href="mailto:ccvenkatapathiraju12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmai&logoColor=white"></a>
+  <a href="mailto:ccvenkatapathiraju12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white"></a>
 
 ### 🚀 About Me
 
