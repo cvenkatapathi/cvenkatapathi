@@ -32,5 +32,5 @@ Node.js • MongoDB • MySQL • Git • GitHub
 ## 🔗 Connect With Me
 
 [GitHub](https://github.com/cvenkatapathi)
-[LinkedIn](YOUR-LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/venkatapathi-raju-chamarthi)
 [(Portfolio)](https://venkatapathi-raju-portfolio-fk7p.vercel.app/)
