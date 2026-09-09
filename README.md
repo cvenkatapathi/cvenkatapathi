@@ -1,42 +1,35 @@
-# 👋 Hi, I'm Venkata Pathi Raju
+# Hi 👋, I'm Venkata Pathi Raju
 
-### Full Stack Developer
+### Full Stack Developer | Java | Spring Boot | React | JavaScript
 
-> Building modern web applications with Java, Spring Boot,
-> React, JavaScript and more.
+I build practical, scalable and user-focused web applications.
 
 ## 🚀 My Portfolio
 
-### [🌐 ENTER MY PORTFOLIO](YOUR-LIVE-PORTFOLIO-URL)
+🌐 **[Visit My Portfolio](YOUR-VERCEL-LINK)**
 
----
+My portfolio showcases my skills, projects, experience,
+education and development journey.
 
 ## 💻 Featured Projects
 
-🛍️ **SVS Vastra Collections**  
-🛒 **ShopEase E-Commerce**  
-🤖 **AI Interviewer**
+### 🛍️ SVS Vastra Collections
+Spring Boot based e-commerce website for a saree business.
 
-## 🛠️ Tech Stack
+### 🛒 ShopEase
+Full Stack E-Commerce application built with Node.js and MongoDB.
+
+### 🤖 AI Interviewer
+AI-powered interview automation system using Django,
+NLP and Machine Learning.
+
+## 🛠️ Technologies
 
 Java • Spring Boot • React • JavaScript • Python
-Node.js • MongoDB • MySQL
+Node.js • MongoDB • MySQL • Git • GitHub
 
-## 📫 Connect
+## 🔗 Connect With Me
 
-GitHub • LinkedIn • Portfolio## Hi there 👋
-
-<!--
-**cvenkatapathi/cvenkatapathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/cvenkatapathi)
+[LinkedIn](YOUR-LINKEDIN)
+[Portfolio](YOUR-VERCEL-LINK)
