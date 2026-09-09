@@ -6,7 +6,7 @@ I build practical, scalable and user-focused web applications.
 
 ## 🚀 My Portfolio
 
-🌐 **[Visit My Portfolio][(MY-VERCEL-LINK)](https://venkatapathi-raju-portfolio-fk7p.vercel.app/)
+🌐 **[(Visit My Portfolio)](https://venkatapathi-raju-portfolio-fk7p.vercel.app/)
 
 
 My portfolio showcases my skills, projects, experience,
