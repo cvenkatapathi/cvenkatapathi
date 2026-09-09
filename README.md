@@ -1,4 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Venkata Pathi Raju
+
+### Full Stack Developer
+
+> Building modern web applications with Java, Spring Boot,
+> React, JavaScript and more.
+
+## 🚀 My Portfolio
+
+### [🌐 ENTER MY PORTFOLIO](YOUR-LIVE-PORTFOLIO-URL)
+
+---
+
+## 💻 Featured Projects
+
+🛍️ **SVS Vastra Collections**  
+🛒 **ShopEase E-Commerce**  
+🤖 **AI Interviewer**
+
+## 🛠️ Tech Stack
+
+Java • Spring Boot • React • JavaScript • Python
+Node.js • MongoDB • MySQL
+
+## 📫 Connect
+
+GitHub • LinkedIn • Portfolio## Hi there 👋
 
 <!--
 **cvenkatapathi/cvenkatapathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
