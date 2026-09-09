@@ -32,4 +32,4 @@ Node.js • MongoDB • MySQL • Git • GitHub
 
 [GitHub](https://github.com/cvenkatapathi)
 [LinkedIn](YOUR-LINKEDIN)
-[Portfolio](YOUR-VERCEL-LINK)
+[Portfolio][(YOUR-VERCEL-LINK)](https://venkatapathi-raju-portfolio-fk7p.vercel.app/)
