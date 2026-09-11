@@ -220,23 +220,23 @@ My interactive developer portfolio built with **React, Three.js and JavaScript**
 </div>
 
 ---
-# 📊 GitHub Analytics
+ ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/cvenkatapathi?tab=repositories">
-<img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
 </a>
 
 <a href="https://github.com/cvenkatapathi?tab=followers">
-<img src="https://img.shields.io/github/followers/cvenkatapathi?style=for-the-badge&label=FOLLOWERS&logo=github" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/cvenkatapathi?style=for-the-badge&label=FOLLOWERS&logo=github" alt="GitHub Followers"/>
 </a>
 
 <a href="https://github.com/cvenkatapathi">
-<img src="https://img.shields.io/github/stars/cvenkatapathi?style=for-the-badge&label=PROFILE%20STARS&logo=github" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/cvenkatapathi?style=for-the-badge&label=PROFILE%20STARS&logo=github" alt="GitHub Stars"/>
 </a>
 
-<br/><br/>
+<br><br>
 
 <img
   width="70%"
@@ -245,7 +245,6 @@ My interactive developer portfolio built with **React, Three.js and JavaScript**
 />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
