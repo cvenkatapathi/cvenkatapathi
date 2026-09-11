@@ -28,7 +28,7 @@
 
 ---
 
-# 👋 Hello, I'm Raju
+# 👋 Hello, I'm VenkataPathi Raju
 
 <table>
 <tr>
@@ -36,7 +36,7 @@
 
 ### 🚀 Full Stack Developer
 
-I'm **Venkata Pathi Raju**, a B.Tech developer focused on building practical and user-focused web applications.
+I'm **VenkataPathi Raju**, a B.Tech developer focused on building practical and user-focused web applications.
 
 I enjoy working across the stack — designing backend services, working with databases, building responsive interfaces, and turning ideas into complete applications.
 
