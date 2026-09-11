@@ -220,23 +220,23 @@ My interactive developer portfolio built with **React, Three.js and JavaScript**
 </div>
 
 ---
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=cvenkatapathi&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent"
-  alt="GitHub Statistics"
-/>
+<a href="https://github.com/cvenkatapathi?tab=repositories">
+<img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/>
+</a>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvenkatapathi&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-  alt="Top Languages"
-/>
+<a href="https://github.com/cvenkatapathi?tab=followers">
+<img src="https://img.shields.io/github/followers/cvenkatapathi?style=for-the-badge&label=FOLLOWERS&logo=github" alt="GitHub followers"/>
+</a>
 
-<br><br>
+<a href="https://github.com/cvenkatapathi">
+<img src="https://img.shields.io/github/stars/cvenkatapathi?style=for-the-badge&label=PROFILE%20STARS&logo=github" alt="GitHub stars"/>
+</a>
+
+<br/><br/>
 
 <img
   width="70%"
