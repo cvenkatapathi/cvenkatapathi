@@ -220,43 +220,44 @@ My interactive developer portfolio built with **React, Three.js and JavaScript**
 </div>
 
 ---
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cvenkatapathi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=cvenkatapathi&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent"
+  alt="GitHub Statistics"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvenkatapathi&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvenkatapathi&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+  alt="Top Languages"
+/>
 
-<br/><br/>
+<br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=cvenkatapathi&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=cvenkatapathi&hide_border=true&theme=transparent"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cvenkatapathi&bg_color=00000000&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
+<img
+  src="https://raw.githubusercontent.com/cvenkatapathi/cvenkatapathi/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/cvenkatapathi/cvenkatapathi/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
-> **If the snake animation doesn't appear immediately, add the GitHub Action described below this README.**
-
 ---
 
 # 🧩 How I Build
